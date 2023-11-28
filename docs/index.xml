@@ -6,7 +6,16 @@
     <description>Recent content on itsmux.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Nov 2023 14:50:27 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Nov 2023 17:30:55 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dotfiles</title>
+      <link>/posts/dotfiles/</link>
+      <pubDate>Tue, 28 Nov 2023 17:30:55 +0100</pubDate>
+      
+      <guid>/posts/dotfiles/</guid>
+      <description>Managing my dotfiles https://www.jakewiesler.com/blog/managing-dotfiles https://www.gnu.org/software/stow/ </description>
+    </item>
+    
     <item>
       <title>My zsh setup on MacOS</title>
       <link>/posts/macos-iterm-zsh/</link>

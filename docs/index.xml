@@ -6,7 +6,16 @@
     <description>Recent content on itsmux.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Nov 2023 23:04:29 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Nov 2023 14:50:27 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My zsh setup on MacOS</title>
+      <link>/posts/macos-iterm-zsh/</link>
+      <pubDate>Tue, 28 Nov 2023 14:50:27 +0100</pubDate>
+      
+      <guid>/posts/macos-iterm-zsh/</guid>
+      <description>Quick Details oh-my-zsh Font: JetBrains Mono Iterm2 colour preset: lovelace via iterm2colorschemes oh-my-zsh theme: robbyrussell </description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>/posts/hello-world/</link>
